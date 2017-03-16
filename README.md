@@ -4,9 +4,26 @@ Continuation of github.com/franksouza183's Antu icon theme. Originally for KDE, 
 
 Thanks to @franksouza183 for original work on Antu icons and @jcqSCH for sharing them afterwards.
 
+## TODO
+
+* [ ] better pamac-manager (add/remove software)
+
 ## Changelog since _heritage_
 
-* ...
+Icons added:
+
+### Internet
+
+* Waterfox
+
+### Development
+
+* GitKraken
+
+### System
+
+* Pamac-Manager
+* Terminix
 
 ---
 
