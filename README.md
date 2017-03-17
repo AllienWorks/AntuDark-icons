@@ -4,26 +4,52 @@ Continuation of github.com/franksouza183's Antu icon theme. Originally for KDE, 
 
 Thanks to @franksouza183 for original work on Antu icons and @jcqSCH for sharing them afterwards.
 
-## TODO
-
-* [ ] better pamac-manager (add/remove software)
-
 ## Changelog since _heritage_
 
-Icons added:
+Legend:
+
+* FIXME - doesn't work
+* WORKS? - not sure if works, provide feedback if tested
+* TWEAK - needs some more love, maybe even complete rework
+
+### Accessories
+
+* gnome-calendar
+* thunar (File Manager)
+* galculator
+* engrampa (Archive Manager)
 
 ### Internet
 
-* Waterfox
+* waterfox - WORKS?
+* hexchat - TWEAK
 
 ### Development
 
-* GitKraken
+* gitkraken - TWEAK
+
+### Graphics
+
+* [ ] viewnior - TODO
+
+### Office
+
+* xfcalendar (Orage)
+
+### Settings
+
+* blueman (Bluetooth)
+	- [ ] blueman-active - TODO
+	- [ ] blueman-disabled - TODO
+	- [ ] blueman-tray - TODO
 
 ### System
 
-* Pamac-Manager
-* Terminix
+* system-software-install ("Software Center" apps) - TWEAK
+* terminix
+* xfce-sensors
+* xfce4-session (Session and Startup) - TWEAK
+* mega (MegaSync)
 
 ---
 
