@@ -42,7 +42,12 @@ Like the work? [Support me and donate](https://allien.work/donate) (crypto prefe
 = needs some more love, maybe even complete rework
 
 * hexchat
-* gitkraken
 * system-software-install ("Software Center" apps)
 * xfce4-session (Session and Startup)
 
+---
+
+### New icons added since "heritage"
+
+* **Development**: gitkraken, visual-studio-code
+* **Graphics**: Gravit Designer (chrome-pdagghjnpkeagmlbilmjmclfhjeaapaa)
