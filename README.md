@@ -14,7 +14,8 @@ Continuation of github.com/franksouza183's Antu icon theme, which was taken offl
 > Currently working on XFCE icons, feel free to coop on other Gtk desktops!
 
 1. fork the repo
-2. make changes, add icons, ...
+2. add/update icons
+3. commit and push changes
 3. submit pull request
 
 ## Maintainer
@@ -32,6 +33,15 @@ Like the work? [Support me and donate](https://allien.work/donate) (crypto prefe
 	- blueman-active
 	- blueman-disabled
 	- blueman-tray
+* avahi server browsers
+    - SSH
+    - VNC
+    - zeroconf
+* discord
+* exodus
+* xfce4-workspaces
+* menu-editor.svg --> menulibre.svg (remove KDE icon)
+* xfwm4-settings (window decorations)
 
 ### `WORKS?`
 
@@ -44,6 +54,7 @@ Like the work? [Support me and donate](https://allien.work/donate) (crypto prefe
 * hexchat
 * system-software-install ("Software Center" apps)
 * xfce4-session (Session and Startup)
+* xfce4-panel
 
 ---
 
