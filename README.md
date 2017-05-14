@@ -11,7 +11,7 @@ Continuation of github.com/franksouza183's Antu icon theme, which was taken offl
 
 ### Contribution guidelines ###
 
-> Currently working on XFCE icons, feel free to coop on other Gtk desktops!
+> Currently working on XFCE icons, feel free to co-op on other Gtk desktops!
 
 1. fork the repo
 2. add/update icons
@@ -28,6 +28,8 @@ Like the work? [Support me and donate](https://allien.work/donate) (crypto prefe
 
 ## TODO of _“heritage”_
 
+### Apps
+
 * viewnior
 * blueman (Bluetooth)
 	- blueman-active
@@ -42,6 +44,40 @@ Like the work? [Support me and donate](https://allien.work/donate) (crypto prefe
 * xfce4-workspaces
 * menu-editor.svg --> menulibre.svg (remove KDE icon)
 * xfwm4-settings (window decorations)
+
+### Status
+
+See status bar icon names via `Numix/24/status/`
+
+* Wired network
+    - [x] nm-device-wired
+        + [x] nm-device-wired-autoip
+    - [ ] nm-device-wired-secure
+    - [ ] nm-adhoc
+    - [x] nm-no-connection
+* Wireless network
+    - [ ] nm-signal-0 (+ -secure)
+    - [ ] nm-signal-25 (+ -secure)
+    - [ ] nm-signal-50 (+ -secure)
+    - [ ] nm-signal-75 (+ -secure)
+    - [ ] nm-signal-100 (+ -secure)
+* Mega
+    - [ ] megasync-status-ok
+    - [ ] megasync-status-disconnected
+    - [ ] megasync-status-paused
+    - [ ] megasync-status-syncing
+* Pamac (updates)
+    - [ ] ??
+    - [ ] pamac-tray-no-update
+    - [ ] pamac-tray-update
+
+**Color palette**
+
+* error/warning: `#F92626`
+
+### Other
+
+* extract all SVGZ icons (in `mimetypes/`)
 
 ### `WORKS?`
 
@@ -62,3 +98,4 @@ Like the work? [Support me and donate](https://allien.work/donate) (crypto prefe
 
 * **Development**: gitkraken, visual-studio-code
 * **Graphics**: Gravit Designer (chrome-pdagghjnpkeagmlbilmjmclfhjeaapaa)
+* 3 status icons
