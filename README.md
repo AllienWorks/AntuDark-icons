@@ -45,31 +45,6 @@ Like the work? [Support me and donate](https://allien.work/donate) (crypto prefe
 * menu-editor.svg --> menulibre.svg (remove KDE icon)
 * xfwm4-settings (window decorations)
 
-### Status
-
-See status bar icon names via `Numix/24/status/`
-
-* Wired network
-    - [x] nm-device-wired
-        + [x] nm-device-wired-autoip
-    - [ ] nm-device-wired-secure
-    - [ ] nm-adhoc
-    - [x] nm-no-connection
-* Wireless network
-    - [ ] nm-signal-0 (+ -secure)
-    - [ ] nm-signal-25 (+ -secure)
-    - [ ] nm-signal-50 (+ -secure)
-    - [ ] nm-signal-75 (+ -secure)
-    - [ ] nm-signal-100 (+ -secure)
-* Mega
-    - [ ] megasync-status-ok
-    - [ ] megasync-status-disconnected
-    - [ ] megasync-status-paused
-    - [ ] megasync-status-syncing
-* Pamac (updates)
-    - [ ] ??
-    - [ ] pamac-tray-no-update
-    - [ ] pamac-tray-update
 
 **Color palette**
 
@@ -98,4 +73,4 @@ See status bar icon names via `Numix/24/status/`
 
 * **Development**: gitkraken, visual-studio-code
 * **Graphics**: Gravit Designer (chrome-pdagghjnpkeagmlbilmjmclfhjeaapaa)
-* 3 status icons
+* 10 status icons
