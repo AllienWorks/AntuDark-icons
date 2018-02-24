@@ -1,17 +1,19 @@
-# Antu Heritage
+# Antu GTK
 
-Continuation of github.com/franksouza183's Antu icon theme, which was taken offline for some reason. Originally for KDE, Antu Heritage extends support to Gtk desktops and new apps.
+Continuation of github.com/franksouza183's Antu icon theme, which was taken offline for some reason. Originally for KDE, Antu Heritage extends support to Gtk desktops and new apps. A lot of the icons are just symlinked to their KDE counterparts. The missing ones are on TODO (feel free to open Issues with requests for your missing apps).
 
-> Thanks to @franksouza183 for original work on Antu icons and @jcqSCH for sharing them afterwards.
+> Thanks to @franksouza183 for original work on Antu icons and @jcqSCH for sharing them afterwards!
+
+As a user of dark UIs, I'm currently working only on `AntuDark` variant. The others are kept as they were, for future work.
 
 ## Installation
 
 1. clone or download ZIP of this repo
 2. copy folders to either `~/.icons/` (for your user only) or to `/usr/share/icons/` (for all users)
 
-### Contribution guidelines ###
+### Contribution guidelines
 
-> Currently working on XFCE icons, feel free to co-op on other Gtk desktops!
+> Currently working on Gnome/XFCE icons, feel free to co-op on other GTK desktops!
 
 1. fork the repo
 2. add/update icons
@@ -26,25 +28,12 @@ Like the work? [Support me and donate](https://allien.work/donate) (crypto prefe
 
 ---
 
-## TODO of _“heritage”_
+## TODO
 
 ### Apps
 
-* viewnior
-* blueman (Bluetooth)
-	- blueman-active
-	- blueman-disabled
-	- blueman-tray
-* avahi server browsers
-    - SSH
-    - VNC
-    - zeroconf
 * discord
 * exodus
-* xfce4-workspaces
-* menu-editor.svg --> menulibre.svg (remove KDE icon)
-* xfwm4-settings (window decorations)
-
 
 **Color palette**
 
@@ -73,4 +62,5 @@ Like the work? [Support me and donate](https://allien.work/donate) (crypto prefe
 
 * **Development**: gitkraken, visual-studio-code
 * **Graphics**: Gravit Designer (chrome-pdagghjnpkeagmlbilmjmclfhjeaapaa)
-* 10 status icons
+* **Crypto**: Decred
+* **Security**: Keepass(X/C)
