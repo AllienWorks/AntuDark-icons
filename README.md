@@ -32,37 +32,27 @@ Like the work? [Support me and donate](https://allien.work/donate) (crypto prefe
 
 ## TODO
 
-### Apps
-
-* discord
-* exodus
-
-**Color palette**
-
-* error/warning: `#F92626`
-
-### Other
-
-* extract all SVGZ icons (in `mimetypes/`)
-
-### `WORKS?`
-
-= not sure if works, provide feedback if tested
-
-### `TWEAK`
-
-= needs some more love, maybe even complete rework
-
-* hexchat
-* system-software-install ("Software Center" apps)
-* xfce4-session (Session and Startup)
-* xfce4-panel
-
----
-
-### New icons added since "heritage"
-
-* **Development**: gitkraken, visual-studio-code
-* **Graphics**: Gravit Designer (chrome-pdagghjnpkeagmlbilmjmclfhjeaapaa)
-* **Crypto**: Decred
-* **Security**: Keepass(X/C)
+- avahi
+- characters
+- cheese
+- clocks
+- dconf editor
+- discord
+- document viewer
+- exodus
+- gthumb
+- hp device manager
+- kvantum manager
+- ledger live
+- lshw
+- maps
+- onlyoffice
+- passwords & keys
+- settings
+- simplescan
+- standard-notes
+- synology drive
+- system log
+- todo
+- uget
+- weather
