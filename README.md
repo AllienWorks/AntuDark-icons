@@ -1,8 +1,8 @@
-# Antu GTK
+# AntuDark icons
 
 ![Antu icons GTK](antu-icons-preview.svg)
 
-Continuation of [@franksouza183](https://github.com/franksouza183)'s Antu icon theme, which was taken offline for some reason. Originally for KDE, Antu Heritage extends support to Gtk desktops and new apps. A lot of the icons are just symlinked to their KDE counterparts. The missing ones are on TODO (feel free to open Issues with requests for your missing apps).
+Continuation of [@franksouza183](https://github.com/franksouza183)'s AntuDark icon theme, which was taken offline for some reason. Originally for KDE, AntuDark extends support to GTK desktops and new apps. A lot of the icons are just symlinked to their KDE counterparts. The missing ones are on TODO (feel free to open Issues with requests for your missing apps).
 
 > Thanks to @franksouza183 for original work on Antu icons and @jcqSCH for sharing them afterwards!
 
@@ -56,3 +56,5 @@ Like the work? [Support me and donate](https://allien.work/donate) (crypto prefe
 - todo
 - uget
 - weather
+
+- [ ] AUR package
